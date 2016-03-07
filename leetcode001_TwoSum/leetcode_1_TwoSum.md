@@ -114,7 +114,7 @@ public class Solution
 }
 ```
 #### 第三次结果细节（图）：
-
+![image](file:///tmp/WizNote/0d3ac8d4-af6f-4293-9822-af72c022e7e4/index_files/520246393.png)
 
 #### 第三次提交总结：
 这次效率得到巨大提升。本次提交参考了[vtkrishn](https://leetcode.com/discuss/90368/my-6ms-java-solution)的代码。
