@@ -73,6 +73,6 @@ Given a string, find the length of the longest substring without repeating chara
     }
 ```
 #### 第二次结果细节（图）：
-![image]()
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode003_MaxSubString/img/1.png)
 #### 第二次提交总结：
 改变思路后，果然顺利了许多。第二次的思路：利用一个数组tmp来存储每个字符出现的位置，而在这个数组存储时以字符的ASCII作为下标。若字符是首次出现，则在tmp数组对应的位置记录下它原来所在的位置，若不是第一次出现，则先取出原来的数据再覆盖。注意：先把String转成字符数组再操作(利用String的toCharArray()方法)，效率会高很多。
