@@ -1,7 +1,7 @@
 # *题目*
 **15. 3 Sum**  
 Given an array S of n integers, are there elements a, b, c in S such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.    
-**Note: **    
+**Note:**      
 - Elements in a triplet (a,b,c) must be in non-descending order. (ie, a ≤ b ≤ c)  
 - The solution set must not contain duplicate triplets.  
 ```
@@ -41,6 +41,6 @@ public List<List<Integer>> threeSum(int[] nums)
 }
 ```
 #### 结果细节（图）：
-
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode015_3Sum/img/1.png)
 # *总结：*
 这个方法还是有一定机率会出现TLE的，但是现在还没什么好的办法。以后想到了再补充。
