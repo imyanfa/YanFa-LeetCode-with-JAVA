@@ -42,5 +42,31 @@ public List<List<Integer>> threeSum(int[] nums)
 ```
 #### 结果细节（图）：
 ![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode015_3Sum/img/1.png)
-# *总结：*
-这个方法还是有一定机率会出现TLE的，但是现在还没什么好的办法。以后想到了再补充。
+# *更新：*
+#### 思路
+利用两个指针，一个（i）指向数组头，另一个（j）指向数组尾部。i指针作外循环，终止条件为`i < nums.length-2 && nums[i] <= 0;`；j指针作内循环，终止条件为`j > i && nums[j] >= 0`。然后在两个指针区间内找第三个数，即用Arrays类的binarySearch方法进行二分查找，找到就将这三个数插入到目标集合中。如果有重复元素，则跳过。
+#### 代码
+```java
+public List<List<Integer>> threeSum(int[] nums)
+{
+    Arrays.sort(nums);
+    List<List<Integer>> lists = new ArrayList<>();
+    for(int i = 0; nums[i] <= 0; i++)
+    {
+        for(int j = nums.length - 1; j > i && nums[j] >= 0; j--)
+        {
+            int tmp = nums[i] + nums[j];
+            int index = Arrays.binarySearch(nums, i + 1, j, -tmp);
+            if(index >= 0)
+                lists.add(Arrays.asList(nums[i], -tmp, nums[j]));
+            while(i < j && nums[j] == nums[j - 1])
+                j--;
+        }
+        while(i+1 < nums.length && nums[i] == nums[i + 1])
+            i++;
+    }
+    return lists;
+}
+```
+####细节图
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode015_3Sum/img/2.png)
