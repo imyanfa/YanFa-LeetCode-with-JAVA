@@ -3,7 +3,7 @@
 Given a digit string, return all possible letter combinations that the number could represent.
 
 A mapping of digit to letters (just like on the telephone buttons) is given below.
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/LeetCode017_LetterCombinationofaPhoneNumber/img/2.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode017_LetterCombinationofaPhoneNumber/img/2.png)
 
 ```
 Input:Digit string "23" Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
@@ -63,4 +63,4 @@ private void getString(String builder, int index)
 
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/LeetCode017_LetterCombinationofaPhoneNumber/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode017_LetterCombinationofaPhoneNumber/img/1.png)
