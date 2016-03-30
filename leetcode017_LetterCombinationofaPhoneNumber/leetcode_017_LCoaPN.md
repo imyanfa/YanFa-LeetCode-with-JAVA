@@ -1,12 +1,11 @@
 # *题目*
-**17. Letter Combinations of a Phone Number**  
-Given a digit string, return all possible letter combinations that the number could represent.
-
-A mapping of digit to letters (just like on the telephone buttons) is given below.
+**17. Letter Combinations of a Phone Number**   
+Given a digit string, return all possible letter combinations that the number could represent.   
+A mapping of digit to letters (just like on the telephone buttons) is given below.  
 ![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode017_LetterCombinationofaPhoneNumber/img/2.png)
 
 ```
-Input:Digit string "23" Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
+Input:Digit string "23" 
 Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 ```
 #### 思路：
