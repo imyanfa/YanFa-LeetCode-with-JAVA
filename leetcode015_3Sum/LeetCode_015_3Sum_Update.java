@@ -9,25 +9,27 @@ public class LeetCode_015_3Sum_Update
         Arrays.sort(nums);
         List<List<Integer>> lists = new ArrayList<>();
 
-        for(int i = 0; i < nums.length-2 && nums[i] <= 0; i++)
+        for(int i = 0; i < nums.length-2; i++)
         {
-
-            for(int j = nums.length - 1; j > i && nums[j] >= 0; j--)
+            if(i == 0 || nums[i] != nums[i-1])
             {
-                int tmp = nums[i] + nums[j];
-                int index = Arrays.binarySearch(nums, i + 1, j, -tmp);
-                if(index >= 0)
+                int low = i+1;
+                int high = nums.length-1;
+                int sum = -nums[i];
+                while(low < high)
                 {
-                    lists.add(Arrays.asList(nums[i], -tmp, nums[j]));
+                    if(nums[low]+ nums[high] == sum)
+                    {
+                        lists.add(Arrays.asList(nums[i],nums[low],nums[high]));
+                        while(low < high && nums[low] == nums[low+1]) low++;
+                        while(low < high && nums[high] == nums[high-1]) high--;
+                        low++;high--;
+                    }
+                    else if(nums[low] + nums[high] < sum)
+                        low++;
+                    else
+                        high--;
                 }
-                while(i < j && nums[j] == nums[j - 1])
-                {
-                    j--;
-                }
-            }
-            while(i+1 < nums.length && nums[i] == nums[i + 1])
-            {
-                i++;
             }
         }
         return lists;
