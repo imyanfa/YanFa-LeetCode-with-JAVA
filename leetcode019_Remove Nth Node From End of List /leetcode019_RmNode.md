@@ -41,4 +41,4 @@ public ListNode removeNthFromEnd(ListNode head, int n)
 }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode019_Remove Nth Node From End of List/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode019_Remove%20Nth%20Node%20From%20End%20of%20List%20/img/1.png)
