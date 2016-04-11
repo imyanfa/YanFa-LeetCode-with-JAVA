@@ -29,4 +29,4 @@ public ListNode swapPairs(ListNode head)
 }
 ```
 #### 结果细节（图）：
-![image]()
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode024_SwapNodes/img/1.png)
