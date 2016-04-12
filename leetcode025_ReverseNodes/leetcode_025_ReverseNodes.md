@@ -56,4 +56,4 @@ private ListNode reverse(final ListNode p, final ListNode flag)
 
 ```
 #### 结果细节（图）：
-
+![imgage](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode025_ReverseNodes/img/1.png)
