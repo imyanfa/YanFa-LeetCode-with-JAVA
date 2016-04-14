@@ -11,9 +11,9 @@ Your function should return length = 2, with the first two elements of nums bein
 2. Did you use the property of "the order of elements can be changed"?  
 3. What happens when the elements to remove are rare?
 
-#### 思路：
+## 思路：
 利用头尾两个指针，若头指针所指元素与val相等，则把尾指针所指元素移到头指针位置并向前移动尾指针，否则向后移动头指针。
-#### 代码：
+## 代码：
 ```java
 public int removeElement(int[] nums, int val)
 {
@@ -28,4 +28,5 @@ public int removeElement(int[] nums, int val)
     return endIndex + 1;
 }
 ```
-#### 结果细节（图）：
+## 结果细节（图）：
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode027_RmElement/img/1.png)
