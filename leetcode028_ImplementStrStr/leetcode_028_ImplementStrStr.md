@@ -20,7 +20,7 @@ public int strStr(String haystack, String needle)
 ```
 ## 结果细节（图）：
 ![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode028_ImplementStrStr/img/1.png)
-## 附：JAVA的KMP实现
+## 附：KMP实现(Java)
 ```java
 public int strStr(String haystack, String needle)
 {
