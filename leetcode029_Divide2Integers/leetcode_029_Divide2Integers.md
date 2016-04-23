@@ -19,7 +19,8 @@ PS: 除数为0的情况不用考虑，用例中没有出现这种情况。
 - **特别注意，这里为两个负数运算**   
 - 递归结束条件：被除数比除数大时(因为为负数运算)，返回0；相等时返回1。  
 - 在递归过程中，依次用被除数去减除数的$2^i$倍，直到$dividend - (divisor)^i <= (divisor)^i$为止。这个过程相当于找一个小于商的数，而递归过程就是在不断的使这个数接近商，最终得到结果的过程。 
-- 用了两次左移运算，左移相当于乘2 
+- 用了两次左移运算，左移相当于乘2   
+
 ## 代码：
 ```java
 public int divide(int dividend, int divisor)
@@ -70,4 +71,4 @@ private int div(int dividend, int divisor)
 
 ```
 ## 结果细节（图）：
-
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode029_Divide2Integers/img/1.png)
