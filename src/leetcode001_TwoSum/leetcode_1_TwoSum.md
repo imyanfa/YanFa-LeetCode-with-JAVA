@@ -29,7 +29,7 @@ public class Solution {
 }
 ```
 #### 第一次结果细节：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode001_TwoSum/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode001_TwoSum/img/1.png)
 #### 第一次提交总结：
 虽然结果是AC，但是从Submission Details可以看出结果并不理想。本次提交并未用任何算法，纯靠循环硬解，效率可想而知。
 
@@ -84,7 +84,7 @@ public class Solution {
 }
 ```
 #### 第二次结果细节：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode001_TwoSum/img/2.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode001_TwoSum/img/2.png)
 #### 第一次提交总结：
 效率有提升，但仍不理想。思路：先把输入数组排序，核心算法是用两个指针向中间走。
 
@@ -115,6 +115,6 @@ public class Solution
 }
 ```
 #### 第三次结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode001_TwoSum/img/3.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode001_TwoSum/img/3.png)
 #### 第三次提交总结：
 这次效率得到巨大提升。本次提交参考了[vtkrishn](https://leetcode.com/discuss/90368/my-6ms-java-solution)的代码。

@@ -112,7 +112,7 @@ public class Solution {
 ```
 
 #### 第一次结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode002_AddTwoNumbers/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode002_AddTwoNumbers/img/1.png)
 
 #### 第一次提交总结：
 
@@ -213,7 +213,7 @@ public class Solution {
 ```
 
 #### 第二次结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode002_AddTwoNumbers/img/2.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode002_AddTwoNumbers/img/2.png)
 
 #### 第二次提交总结：
 
