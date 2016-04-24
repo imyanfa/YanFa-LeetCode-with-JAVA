@@ -1,5 +1,5 @@
 # YanFa-LeetCode-with-JAVA
-这个项目用来存放我做的LeetCode题目的源代码。
+This is project that puts my source code of LeetCode!
 -----
-**项目结构图:**  
+**Project structure:**  
 ![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/opt/1.png)
