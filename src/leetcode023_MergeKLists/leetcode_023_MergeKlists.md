@@ -115,6 +115,6 @@ public ListNode mergeKLists(ListNode[] lists)
 
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode023_MergeKLists/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode023_MergeKLists/img/1.png)
 # *总结：*
 JAVA中拷贝数组可以用System.arraycopy和Arrays.copyOf()，但是Arrays.copyOf()的底层实现还是用的System.arraycopy，所以在本题中用System.arraycopy比较高效一点。

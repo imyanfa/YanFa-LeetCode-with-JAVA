@@ -42,4 +42,4 @@ void generate(int left, int right, String s)
 }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode022_GenerateParentheses/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode022_GenerateParentheses/img/1.png)

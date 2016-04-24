@@ -51,4 +51,4 @@ public List<List<Integer>> fourSum(int[] nums, int target)
 }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode018_4Sum/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode018_4Sum/img/1.png)

@@ -45,7 +45,7 @@ public int reverse(int x)
 }
 ```
 #### 第一次结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode007_ReserseInteger/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode007_ReserseInteger/img/1.png)
 
 # *第二次提交*
 #### 第二次提交思路：

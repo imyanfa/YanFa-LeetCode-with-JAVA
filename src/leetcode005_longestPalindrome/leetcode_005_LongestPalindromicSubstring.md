@@ -46,7 +46,7 @@ Given a string S, find the longest palindromic substring in S. You may assume th
     }
 ```
 #### 提交结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode005_longestPalindrome/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode005_longestPalindrome/img/1.png)
 
 #### 总结：
 从细节图看出效率并不是很高，但也在能接受的范围内。以后有想法了再修改。

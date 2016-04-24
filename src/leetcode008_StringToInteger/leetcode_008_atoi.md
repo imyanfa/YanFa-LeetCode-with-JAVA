@@ -55,4 +55,4 @@ public int myAtoi(String str)
 }
 ```
 ####  结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode008_StringToInteger/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode008_StringToInteger/img/1.png)

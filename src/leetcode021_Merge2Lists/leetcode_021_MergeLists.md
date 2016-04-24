@@ -35,4 +35,4 @@ public ListNode mergeTwoLists(ListNode l1, ListNode l2)
 }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode021_Merge2Lists/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode021_Merge2Lists/img/1.png)

@@ -71,4 +71,4 @@ private int div(int dividend, int divisor)
 
 ```
 ## 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode029_Divide2Integers/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode029_Divide2Integers/img/1.png)

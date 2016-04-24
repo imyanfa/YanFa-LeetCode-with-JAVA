@@ -22,4 +22,4 @@ public int removeDuplicates(int[] nums)
 }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode026_RemoveDuplicates/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode026_RemoveDuplicates/img/1.png)

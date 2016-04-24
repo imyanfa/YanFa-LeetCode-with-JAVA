@@ -41,7 +41,7 @@ public String convert(String s, int numRows)
 }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode006_ZigzagConversion/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode006_ZigzagConversion/img/1.png)
 #### 提交总结：
 1. 在JAVA中要操作String中的单个字符时，先把它变成字符数组。
 2. 在JAVA中要拼接一个String时，用StringBuilder或字符数组效率较高（千万不要用string+string这种形式！！！）

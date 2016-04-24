@@ -66,4 +66,4 @@ public int threeSumClosest(int[] nums, int target)
 
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode016_3SumClosest/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode016_3SumClosest/img/1.png)

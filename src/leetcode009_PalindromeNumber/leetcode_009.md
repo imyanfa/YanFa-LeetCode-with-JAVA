@@ -23,4 +23,4 @@ public boolean isPalindrome(int x){
 }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode009_PalindromeNumber/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode009_PalindromeNumber/img/1.png)

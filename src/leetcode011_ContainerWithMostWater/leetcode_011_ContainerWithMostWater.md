@@ -25,7 +25,7 @@ public int maxArea(int[] height)
 }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode011_ContainerWithMostWater/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode011_ContainerWithMostWater/img/1.png)
 # *总结：*
 开始我想用两个for循环嵌套来解决（最简单的方式），但是出现了TimeLimit，没办法，只得想想算法。
 

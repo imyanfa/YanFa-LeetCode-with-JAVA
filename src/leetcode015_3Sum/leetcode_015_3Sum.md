@@ -41,7 +41,7 @@ public List<List<Integer>> threeSum(int[] nums)
 }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode015_3Sum/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode015_3Sum/img/1.png)
 # *更新：*
 #### 代码
 ```java
@@ -78,4 +78,4 @@ public List<List<Integer>> threeSum(int[] nums)
 }
 ```
 ####细节图
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode015_3Sum/img/2.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode015_3Sum/img/2.png)

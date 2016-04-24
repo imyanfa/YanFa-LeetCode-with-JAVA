@@ -29,4 +29,4 @@ public int removeElement(int[] nums, int val)
 }
 ```
 ## 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode027_RmElement/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode027_RmElement/img/1.png)

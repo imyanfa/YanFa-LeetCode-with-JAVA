@@ -39,6 +39,6 @@ There are two sorted arrays nums1 and nums2 of size m and n respectively. Find t
     }
 ```
 #### 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/leetcode004_FindMedian/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode004_FindMedian/img/1.png)
 #### 提交总结：
 从细节图来看，结果很不理想，不在可接受范围！！没有仔细设计算法。按照最普通的想法做出来 的。后来想了很久，这道题按照常规思维的话关键在合并两个数组上。要求时间复杂度要在O(log(m+n))。暂时还没什么好的想法，也许可以用递归求解，但还没找具体解法。
