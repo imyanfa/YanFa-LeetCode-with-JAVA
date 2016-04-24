@@ -2,4 +2,4 @@
 This is project that puts my source code of LeetCode!
 -----
 **Project structure:**  
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/opt/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/opt/pic_structure.png)
