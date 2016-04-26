@@ -28,7 +28,8 @@
 27. [Remove Element](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode027_RmElement)
 28. [Implement strStr()](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode028_ImplementStrStr)
 29. [Divide Two Integers](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode029_Divide2Integers)
-30. [Substring with Concatenation of All Words]()
+30. [Substring with Concatenation of All Words](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/opt/nothing.md)
+31. [Next Permutation](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode031_NextPermutation)
 
 
 
