@@ -31,6 +31,7 @@
 30. [Substring with Concatenation of All Words](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/opt/nothing.md)
 31. [Next Permutation](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode031_NextPermutation)
 32. [Longest Valid Parentheses  ](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode032_LongestValidParentheses)
+33. [Search in Rotated Sorted Array](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode_033_SearchInRotatedSortedArray)
 
 
 
