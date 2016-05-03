@@ -56,7 +56,7 @@ public int[] searchRange(int[] nums, int target)
 }
 ```
 ## 结果细节（图）：
-
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode034_SearchForARange/img/1.png)
 
 
 
