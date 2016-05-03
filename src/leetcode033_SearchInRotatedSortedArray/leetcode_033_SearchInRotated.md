@@ -23,6 +23,6 @@ public int search(int[] nums, int target)
 }
 ```
 ## 结果细节（图）：
-![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode_033_SearchInRotatedSortedArray/img/1.png)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode033_SearchInRotatedSortedArray/img/1.png)
 
 
