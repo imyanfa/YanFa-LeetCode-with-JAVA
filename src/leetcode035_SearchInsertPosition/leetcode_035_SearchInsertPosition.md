@@ -1,4 +1,3 @@
-﻿
 # *题目*
 Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.  
 You may assume no duplicates in the array.  
@@ -28,7 +27,7 @@ public int searchInsert(int[] nums, int target)
 }
 ```
 ## 结果细节（图）：
-
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode035_SearchInsertPosition/img/1.png)
 
 
 
