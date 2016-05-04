@@ -33,6 +33,7 @@
 32. [Longest Valid Parentheses  ](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode032_LongestValidParentheses)
 33. [Search in Rotated Sorted Array](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode033_SearchInRotatedSortedArray)
 34. [Search for a Range](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode034_SearchForARange)
+35. [Search Insert Position](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/tree/master/src/leetcode035_SearchInsertPosition)
 
 
 
