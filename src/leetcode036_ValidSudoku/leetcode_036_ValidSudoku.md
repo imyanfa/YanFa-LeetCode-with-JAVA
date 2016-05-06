@@ -40,4 +40,4 @@ public boolean isValidSudoku(char[][] board)
 }
 ```
 ## 结果细节（图）：
-![image](leanote://file/getImage?fileId=572c871f32adcf4b25000000)
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode036_ValidSudoku/img/1.png)
