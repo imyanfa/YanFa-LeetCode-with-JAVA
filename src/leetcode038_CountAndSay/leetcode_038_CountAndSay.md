@@ -8,7 +8,7 @@ Given an integer n, generate the nth sequence.
 Note: The sequence of integers will be represented as a string.   
 ## 思路：
 这题挻有意思的，关键要搞懂题目意思，它的意思是说让统计相同的数，然后用这个统计的个数和原来的一个数一起替换原来的那一串相同的数。举个例子：如果有连续5个1，则替换为51，4个2则替换为42。  
-比如：1211替换过程如下：有1个1，则1换成11；有一个2，则把2换成12；接下来有连续2个1，则把这两个1换成21；所以最终的结果是：1211 -->  111211  
+比如：1211替换过程如下：有1个1，则1换成11；有一个2，则把2换成12；接下来有连续2个1，则把这两个1换成21；所以最终的结果是：1211 -->  111221  
 递归求解，然后统计重复字符。
 ## 代码：
 ```java
@@ -30,3 +30,4 @@ public String countAndSay(int n)
 }
 ```
 ## 结果细节（图）：
+![image](https://github.com/jnuyanfa/YanFa-LeetCode-with-JAVA/blob/master/src/leetcode038_CountAndSay/img/1.png)
